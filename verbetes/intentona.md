@@ -1,7 +1,6 @@
 ---
 slug: intentona
-autores: 
-  - Igor Vinicius
+autores: Igor Vinicius
 ---
 
 # Intentona

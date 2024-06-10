@@ -1,7 +1,6 @@
 ---
 slug: sistema-de-castas
-autores: 
-  - Igor Vinicius
+autores: Igor Vinicius
 ---
 
 # Sistema de castas

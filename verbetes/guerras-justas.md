@@ -1,7 +1,6 @@
 ---
 slug: guerras-justas
-autores:
-  - Igor Vinicius
+autores: Igor Vinicius
 ---
 
 # Guerras Justas
