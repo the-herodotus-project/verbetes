@@ -1,6 +1,7 @@
 ---
 slug: expurgo
-autores: Igor Vinicius
+autores: 
+  - Igor Vinicius
 ---
 
 # Expurgo
