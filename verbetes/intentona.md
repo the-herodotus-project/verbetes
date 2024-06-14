@@ -1,9 +1,11 @@
 ---
 slug: intentona
-autores: Igor Vinicius
+autores: 
+  - Igor Vinicius
 ---
 
 # Intentona
+
 O significado popular, comumente usado, deste verbete é: Intento louco e projeto insensato
 segundo o dicionário de língua portuguesa. Mas seu significado é de ataque imprevisto ou
 conluio de motim ou revolta, ou seja, intentona é a tentativa de revoltar-se a alguma coisa, seja

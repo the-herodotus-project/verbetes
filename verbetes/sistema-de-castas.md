@@ -1,9 +1,11 @@
 ---
 slug: sistema-de-castas
-autores: Igor Vinicius
+autores: 
+  - Igor Vinicius
 ---
 
 # Sistema de castas
+
 Na índia, o sistema de castas é um “divisor social”, com base na religião predominante de lá, o
 hinduísmo. Essa divisão é formada por várias “castas”, que seriam as linhagens de cada grupo,
 ou seja, dependendo da sua hereditariedade, você pode ser ou não privilegiado. Existem quatro
