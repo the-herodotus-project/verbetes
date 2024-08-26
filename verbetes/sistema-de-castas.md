@@ -13,4 +13,12 @@ divisões principais: Brahmins, Kshatriyas, Vaishyas e Shudras, colocados aqui p
 melhor colocação social e econômica no sistema de castas, ou seja, Brahmins estão no topo e os
 Shrudras por último.
 
-![Castas na Índia](https://upload.wikimedia.org/wikipedia/commons/5/55/Sistema_de_castas_na_%C3%8Dndia.png)
+<figure>
+  <figcaption>
+    Sistema de castas na Índia
+  </figcaption>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Sistema_de_castas_na_%C3%8Dndia.png" alt="Sistema de castas na Índia"/>
+  <figcaption>
+    Fonte: <cite>Wikipédia</cite>
+  </figcaption>
+</figure>
