@@ -10,6 +10,16 @@ escritoEm: 12/07/2022
 
 Nome derivado da palavra latina "scholasticus"e que significa "aquele que pertence a uma escola", é a própria mentalidade de ensino da Igreja Católica durante os últimos 500 anos da Idade Média, a qual indica uma grande aproximação entre razão científica e fé, sendo geralmente associada ao pensador Tomás de Aquino, grande filósofo do século 13, além de Occam, Scoto e Erígena. Seu método consistia basicamente numa leitura crítica e atenta aos detalhes. Outra característica, está nas comparações das obras com outros documentos da igreja ou análises anteriores, para a produção dos sententiae, sentenças que continham as discordâncias entre fontes utilizadas no estudo.
 
+<figure>
+  <figcaption>
+    Representação de sala de aula medieval
+  </figcaption>
+  <img src="https://static.todamateria.com.br/upload/me/di/medievalclassroomfullsz-cke.jpg" alt="Representação de sala de aula medieval"/>
+  <figcaption>
+    Fonte: <em>Toda Matéria</em>
+  </figcaption>
+</figure>
+
 **#NaPrática:**
 
 - Reinterpretação de textos do pensamento filosófico-pagão grego;
