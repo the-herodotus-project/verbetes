@@ -12,3 +12,5 @@ ou seja, dependendo da sua hereditariedade, você pode ser ou não privilegiado.
 divisões principais: Brahmins, Kshatriyas, Vaishyas e Shudras, colocados aqui por ordem de
 melhor colocação social e econômica no sistema de castas, ou seja, Brahmins estão no topo e os
 Shrudras por último.
+
+![Castas na Índia](https://upload.wikimedia.org/wikipedia/commons/5/55/Sistema_de_castas_na_%C3%8Dndia.png)
