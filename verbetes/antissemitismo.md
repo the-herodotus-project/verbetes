@@ -1,6 +1,6 @@
 ---
 slug: antissemitismo
-autores: 
+autores:
   - Igor Vinicius
 ---
 

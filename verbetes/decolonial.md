@@ -1,6 +1,6 @@
 ---
 slug: decolonial
-autores: 
+autores:
   - Lucas Silva
   - Rayssa Schuelter
 escritoEm: 12/07/2022

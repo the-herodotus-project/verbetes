@@ -1,6 +1,6 @@
 ---
 slug: intentona
-autores: 
+autores:
   - Igor Vinicius
 ---
 

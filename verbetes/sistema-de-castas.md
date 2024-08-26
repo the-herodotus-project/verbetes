@@ -1,6 +1,6 @@
 ---
 slug: sistema-de-castas
-autores: 
+autores:
   - Igor Vinicius
 ---
 
