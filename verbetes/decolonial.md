@@ -14,7 +14,7 @@ Antes de entendermos o conceito de decolonialismo, precisamos nos atentar ao fat
   <figcaption>América Invertida</figcaption>
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*mx_1nwjRfYpF1k0c" alt="América Invertida"/>
   <figcaption>
-    Fonte: <em>Joaquín Torres García</em>
+    Fonte: <cite>Joaquín Torres García</cite>
   </figcaption>
 </figure>
 

@@ -16,6 +16,6 @@ no homem branco e cristão, que não queriam converter-se ao cristianismo.
   </figcaption>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indian_Soldiers_from_the_Coritiba_Province_Escorting_Native_Prisoners.jpg/525px-Indian_Soldiers_from_the_Coritiba_Province_Escorting_Native_Prisoners.jpg" alt="Índios soldados da província de Curitiba escoltando prisioneiros nativos"/>
   <figcaption>
-    Fonte: <em>Jean-Baptiste Debret</em>
+    Fonte: <cite>Jean-Baptiste Debret</cite>
   </figcaption>
 <figure>

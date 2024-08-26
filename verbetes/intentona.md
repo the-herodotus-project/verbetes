@@ -19,6 +19,6 @@ intentona comunista (1935) e a intentona integralista (1938).
   </figcaption>
   <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/11/soldados-intentona-comunista.jpg"/>
   <figcaption>
-    Fonte: <em>Mundo Educação</em>
+    Fonte: <cite>Mundo Educação</cite>
   </figcaption>
 </figure>

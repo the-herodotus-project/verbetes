@@ -16,7 +16,7 @@ Nome derivado da palavra latina "scholasticus"e que significa "aquele que perten
   </figcaption>
   <img src="https://static.todamateria.com.br/upload/me/di/medievalclassroomfullsz-cke.jpg" alt="Representação de sala de aula medieval"/>
   <figcaption>
-    Fonte: <em>Toda Matéria</em>
+    Fonte: <cite>Toda Matéria</cite>
   </figcaption>
 </figure>
 
